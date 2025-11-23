@@ -1,0 +1,10 @@
+
+# --- Core LLM Frameworks ---
+langchain-core>=0.2.0
+langgraph>=1.0.3
+# --- Observability and Utilities ---
+langsmith>=0.1.76
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+#LLM
+ibm-watsonx-ai
